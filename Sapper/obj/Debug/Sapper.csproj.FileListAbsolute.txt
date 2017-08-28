@@ -1,0 +1,41 @@
+c:\users\nice\documents\visual studio 2015\Projects\Sapper\Sapper\bin\Debug\Sapper.exe.config
+c:\users\nice\documents\visual studio 2015\Projects\Sapper\Sapper\obj\Debug\Sapper.csprojResolveAssemblyReference.cache
+c:\users\nice\documents\visual studio 2015\Projects\Sapper\Sapper\obj\Debug\Sapper.Properties.Resources.resources
+c:\users\nice\documents\visual studio 2015\Projects\Sapper\Sapper\obj\Debug\Sapper.csproj.GenerateResource.Cache
+c:\users\nice\documents\visual studio 2015\Projects\Sapper\Sapper\bin\Debug\Sapper.exe
+c:\users\nice\documents\visual studio 2015\Projects\Sapper\Sapper\bin\Debug\Sapper.pdb
+c:\users\nice\documents\visual studio 2015\Projects\Sapper\Sapper\obj\Debug\Sapper.exe
+c:\users\nice\documents\visual studio 2015\Projects\Sapper\Sapper\obj\Debug\Sapper.pdb
+c:\users\nice\documents\visual studio 2015\Projects\Sapper\Sapper\obj\Debug\Sapper.InitializeSapper.resources
+c:\users\nice\documents\visual studio 2015\Projects\Sapper\Sapper\obj\Debug\Sapper.Sapper.resources
+C:\Users\andrey.panarin\Documents\Visual Studio 2015\Projects\Sapper\Sapper\bin\Debug\Sapper.exe.config
+C:\Users\andrey.panarin\Documents\Visual Studio 2015\Projects\Sapper\Sapper\obj\Debug\Sapper.exe
+C:\Users\andrey.panarin\Documents\Visual Studio 2015\Projects\Sapper\Sapper\obj\Debug\Sapper.pdb
+C:\Users\andrey.panarin\Documents\Visual Studio 2015\Projects\Sapper\Sapper\obj\Debug\Sapper.csprojResolveAssemblyReference.cache
+C:\Users\andrey.panarin\Documents\Visual Studio 2015\Projects\Sapper\Sapper\obj\Debug\Sapper.InitializeSapper.resources
+C:\Users\andrey.panarin\Documents\Visual Studio 2015\Projects\Sapper\Sapper\obj\Debug\Sapper.Properties.Resources.resources
+C:\Users\andrey.panarin\Documents\Visual Studio 2015\Projects\Sapper\Sapper\obj\Debug\Sapper.Sapper.resources
+C:\Users\andrey.panarin\Documents\Visual Studio 2015\Projects\Sapper\Sapper\obj\Debug\Sapper.csproj.GenerateResource.Cache
+C:\Users\andrey.panarin\Documents\Visual Studio 2015\Projects\Sapper\Sapper\bin\Debug\Sapper.exe
+C:\Users\andrey.panarin\Documents\Visual Studio 2015\Projects\Sapper\Sapper\bin\Debug\Sapper.pdb
+C:\Users\andrey.panarin\Dropbox\My sapper\Sapper_v2\Sapper\Sapper\bin\Debug\Sapper.exe.config
+C:\Users\andrey.panarin\Dropbox\My sapper\Sapper_v2\Sapper\Sapper\obj\Debug\Sapper.exe
+C:\Users\andrey.panarin\Dropbox\My sapper\Sapper_v2\Sapper\Sapper\obj\Debug\Sapper.pdb
+C:\Users\andrey.panarin\Dropbox\My sapper\Sapper_v2\Sapper\Sapper\bin\Debug\Sapper.exe
+C:\Users\andrey.panarin\Dropbox\My sapper\Sapper_v2\Sapper\Sapper\bin\Debug\Sapper.pdb
+C:\Users\andrey.panarin\Dropbox\My sapper\Sapper_v2\Sapper\Sapper\obj\Debug\Sapper.csprojResolveAssemblyReference.cache
+C:\Users\andrey.panarin\Dropbox\My sapper\Sapper_v2\Sapper\Sapper\obj\Debug\Sapper.InitializeSapper.resources
+C:\Users\andrey.panarin\Dropbox\My sapper\Sapper_v2\Sapper\Sapper\obj\Debug\Sapper.Properties.Resources.resources
+C:\Users\andrey.panarin\Dropbox\My sapper\Sapper_v2\Sapper\Sapper\obj\Debug\Sapper.Sapper.resources
+C:\Users\andrey.panarin\Dropbox\My sapper\Sapper_v2\Sapper\Sapper\obj\Debug\Sapper.csproj.GenerateResource.Cache
+C:\Users\nice\Dropbox\My sapper\Sapper_v2\Sapper\Sapper\bin\Debug\Sapper.exe.config
+C:\Users\nice\Dropbox\My sapper\Sapper_v2\Sapper\Sapper\obj\Debug\Sapper.exe
+C:\Users\nice\Dropbox\My sapper\Sapper_v2\Sapper\Sapper\obj\Debug\Sapper.pdb
+C:\Users\nice\Dropbox\My sapper\Sapper_v2\Sapper\Sapper\bin\Debug\Sapper.exe
+C:\Users\nice\Dropbox\My sapper\Sapper_v2\Sapper\Sapper\bin\Debug\Sapper.pdb
+C:\Users\nice\Dropbox\My sapper\Sapper_v2\Sapper\Sapper\obj\Debug\Sapper.csprojResolveAssemblyReference.cache
+C:\Users\nice\Dropbox\My sapper\Sapper_v2\Sapper\Sapper\obj\Debug\Sapper.InitializeSapper.resources
+C:\Users\nice\Dropbox\My sapper\Sapper_v2\Sapper\Sapper\obj\Debug\Sapper.Properties.Resources.resources
+C:\Users\nice\Dropbox\My sapper\Sapper_v2\Sapper\Sapper\obj\Debug\Sapper.Sapper.resources
+C:\Users\nice\Dropbox\My sapper\Sapper_v2\Sapper\Sapper\obj\Debug\Sapper.csproj.GenerateResource.Cache
+C:\Users\nice\Dropbox\My sapper\Sapper_v2\Sapper\Sapper\obj\Debug\SapperGame.Sapper.resources
